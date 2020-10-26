@@ -15,7 +15,7 @@ body {
     font-size: 18px;
     color: rgba(0, 0, 0, 0.9);
     /*background: #f9f9f9;*/
-    background: linear-gradient(-30deg, #03a9f4 0%, #3a78b7 50%, #262626 50%, #607d8b 100%);
+    background: linear-gradient(-30deg, #5dff78 0%, #168028 50%, #262626 50%, #607d8b 100%);
     animation: animate 10s linear infinite;
 }
 
